@@ -1,0 +1,1 @@
+Axolot_01.png.png 0 0, Axolot_02.png.png 33 0, Axolot_03.png.png 49 0, Axolot_04.png.png 0 17, Axolot_05.png.png 32 17, Axolot_06.png.png 0 33, Axolot_07.png.png 33 34.
